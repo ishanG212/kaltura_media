@@ -1,0 +1,12 @@
+{
+  "name": "drupal/kaltura_media",
+  "type": "drupal-module",
+  "keywords": ["Drupal"],
+  "homepage": "https://www.drupal.org/project/kaltura_media",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/kaltura_media",
+    "source": "http://cgit.drupalcode.org/kaltura_media"
+  },
+  "require": { }
+}
